@@ -6,4 +6,4 @@
 5. Match them to the items in Wikidata ([Rome Q220](https://www.wikidata.org/wiki/Q220), [marble Q40861](https://www.wikidata.org/wiki/Q40861), time and strings datatypes)
 6. Edit in Wikidata
 
-An example of the layout of an inscription in Wikidata: Funerary inscription of Regina (https://www.wikidata.org/wiki/Q131736544)
+An example of the layout of an inscription in Wikidata: [Funerary inscription of Regina](https://www.wikidata.org/wiki/Q131736544)
