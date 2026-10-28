@@ -7,8 +7,5 @@
 6. Edit in Wikidata
 
 An example of the layout of an inscription in Wikidata: [Funerary inscription of Regina Q131736544](https://www.wikidata.org/wiki/Q131736544)
- <iframe
-  src="https://www.wikidata.org/wiki/Q131736544"
-  width="600"
-  height="400">
-</iframe>
+
+[![Funerary inscription of Regina](Regina Tombstone.png)](https://www.wikidata.org/wiki/Q131736544)
