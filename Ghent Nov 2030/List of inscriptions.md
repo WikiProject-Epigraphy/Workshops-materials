@@ -1,5 +1,7 @@
 
-# List of inscription
+# List of inscriptions
+
+Please add your name in the shared [Google Doc](https://docs.google.com/spreadsheets/d/1KbcmMe0o-eTMcBlHdEydeLlB36Bmd490ckZh-hHU6ks/edit?usp=sharing) next to the inscription you have selected.
 
 1. [IAph 1.4](https://insaph.kcl.ac.uk/iaph2007/iAph010004.html#edition). Column dedication by Eumachos and Amias
 2. [IAph 13.119](https://insaph.kcl.ac.uk/iaph2007/iAph130119.html). Votive dedication by children of Hermias
