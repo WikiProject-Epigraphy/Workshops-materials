@@ -1,5 +1,5 @@
 
-# List of inscription
+# List of inscriptions
 
 1. [IAph 1.4](https://insaph.kcl.ac.uk/iaph2007/iAph010004.html#edition). Column dedication by Eumachos and Amias
 2. [IAph 13.119](https://insaph.kcl.ac.uk/iaph2007/iAph130119.html). Votive dedication by children of Hermias
