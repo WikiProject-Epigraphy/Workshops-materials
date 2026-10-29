@@ -1,7 +1,8 @@
 
 # List of inscriptions for hands-on
 
-## Cursing tablets: 
+## Cursing tablets
+
 * [RIB 154](https://romaninscriptionsofbritain.org/inscriptions/154)
 * [RIB 221](https://romaninscriptionsofbritain.org/inscriptions/221)
 * [Tab. Sulis 99](https://romaninscriptionsofbritain.org/inscriptions/TabSulis99)
