@@ -28,3 +28,9 @@ Please add your name in the shared [Google Doc](https://docs.google.com/spreadsh
 23. [EDR075836](https://edr.lad-sapienza.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR075836). Inscription on a clipeus
 24. [HEp.18](https://hepol.uah.es/pub/record_card_1.php?refpage=%2Fpub%2Fquery.php&field[0][type]=5&field[1][ID]=1&field[1][type]=7&field[1][text]=18&rec=18). Últimas voluntades de Caesianus
 25. [HEp.21609](https://hepol.uah.es/pub/record_card_1.php?refpage=%2Fpub%2Fquery.php&field[0][type]=5&field[1][ID]=1&field[1][type]=7&field[1][text]=18&rec=21609). Epitafio de Boudinna
+26. [GVCyr2 020](https://igcyr2.unibo.it/en/gvcyr020)
+27. [GVCyr2 025](https://igcyr2.unibo.it/en/gvcyr025)
+27. [Tlmn3_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0002)
+28. [SIBulg_207](https://telamon.uni-sofia.bg/en/epi/view_ins/SIBulg_207)
+29. [IGBulg_0013](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_0013)
+30. [Tlmn3_0005](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0005)
