@@ -16,7 +16,7 @@
 
 ## EDR
 * [EDR015860](https://edr.lad-sapienza.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR015860&fo_antik=&fo_modern=&Bibliografia%5B%5D=&Testo=&boolTesto=AND&Testo2=&bool=AND&ordinamento=id_nr&javasi=javascriptsi&se_foto=tutte&lang=it): Building inscription
-* [EDR016040]([EDR015860](https://edr.lad-sapienza.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR016040&fo_antik=&fo_modern=&Bibliografia%5B%5D=&Testo=&boolTesto=AND&Testo2=&bool=AND&ordinamento=id_nr&javasi=javascriptsi&se_foto=tutte&lang=it)): Funerary Inscription of a magister vici
+* [EDR016040](https://edr.lad-sapienza.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR016040&fo_antik=&fo_modern=&Bibliografia%5B%5D=&Testo=&boolTesto=AND&Testo2=&bool=AND&ordinamento=id_nr&javasi=javascriptsi&se_foto=tutte&lang=it): Funerary Inscription of a magister vici
 
 ## Telamon
 * [IGBulg_1955](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_1955): Funerary inscription for Dilles
