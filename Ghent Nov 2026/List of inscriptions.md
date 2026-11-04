@@ -33,4 +33,5 @@ Please add your name in the shared [Google Doc](https://docs.google.com/spreadsh
 28. [Tlmn3_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0002)
 29. [SIBulg_207](https://telamon.uni-sofia.bg/en/epi/view_ins/SIBulg_207)
 30. [IGBulg_0013](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_0013)
-31. [Tlmn3_0005](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0005)
+31. [Tlmn2_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn2_0002)
+32. [Tlmn3_0005](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0005)
