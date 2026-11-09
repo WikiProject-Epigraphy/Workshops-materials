@@ -28,13 +28,19 @@ Please add your name in the shared [Google Doc](https://docs.google.com/spreadsh
 23. [EDR075836](https://edr.lad-sapienza.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR075836). Inscription on a clipeus
 24. [HEp.18](https://hepol.uah.es/pub/record_card_1.php?refpage=%2Fpub%2Fquery.php&field[0][type]=5&field[1][ID]=1&field[1][type]=7&field[1][text]=18&rec=18). Últimas voluntades de Caesianus
 25. [HEp.21609](https://hepol.uah.es/pub/record_card_1.php?refpage=%2Fpub%2Fquery.php&field[0][type]=5&field[1][ID]=1&field[1][type]=7&field[1][text]=18&rec=21609). Epitafio de Boudinna
-26. [GVCyr2 020](https://igcyr2.unibo.it/en/gvcyr020)
-27. [GVCyr2 025](https://igcyr2.unibo.it/en/gvcyr025)
-28. [Tlmn3_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0002)
-29. [SIBulg_207](https://telamon.uni-sofia.bg/en/epi/view_ins/SIBulg_207)
-30. [IGBulg_0013](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_0013)
-31. [Tlmn2_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn2_0002)
-32. [Tlmn3_0005](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0005)
-33. [RIB 154](https://romaninscriptionsofbritain.org/inscriptions/154): Curse upon thief of ‘Vilbia’
-34. [RIB 221](https://romaninscriptionsofbritain.org/inscriptions/221): Curse upon Tacita
-35. 
+26. [GVCyr2 020](https://igcyr2.unibo.it/en/gvcyr020): Epitaph of Lo[ukianos?]
+27. [GVCyr2 025](https://igcyr2.unibo.it/en/gvcyr025): Dedication to Isis
+28. [IGBulg_1955](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_1955): Funerary inscription for Dilles
+42. [IGBulg_1421](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_1421): Dedication by Hadrianius Demetrianus and Hadrianius Asclepiades
+29. [Tlmn3_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0002): Statue base for Caesar Maximus, erected by the city of Philippopolis
+30. [SIBulg_207](https://telamon.uni-sofia.bg/en/epi/view_ins/SIBulg_207): Funerary inscription of Tatianus
+31. [IGBulg_0013](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_0013): Honorary decree for Akornion
+32. [Tlmn2_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn2_0002): Funerary inscription for Aurelia Felicissima of Nicaea, wife of Bassus
+33. [Tlmn3_0005](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0005): Statue base for Julia Mamaea, erected by the Provincial Council of Thrace
+34. [RIB 154](https://romaninscriptionsofbritain.org/inscriptions/154): Curse upon thief of ‘Vilbia’
+35. [RIB 221](https://romaninscriptionsofbritain.org/inscriptions/221): Curse upon Tacita
+37. [IAph12.318](https://insaph.kcl.ac.uk/iaph2007/iAph120318.html): Building inscription: restoration of building by ?Eusebes
+38. [12.602](https://insaph.kcl.ac.uk/iaph2007/iAph120602.html): Funerary honours for Geis and Heraios
+39. [MPL00040](https://db.mappola.eu/r/Inscriptions/show/40): Fragmentary verse inscription from Phoebiana
+40. [MPL00146](https://db.mappola.eu/r/Inscriptions/show/146):Stele for Veiania Hospita and L. Fabricius Clemens
+41. [EDR016040](https://edr.lad-sapienza.it/edr_programmi/res_complex_comune.php?do=book&id_nr=EDR016040&fo_antik=&fo_modern=&Bibliografia%5B%5D=&Testo=&boolTesto=AND&Testo2=&bool=AND&ordinamento=id_nr&javasi=javascriptsi&se_foto=tutte&lang=it): Funerary Inscription of a magister vici
