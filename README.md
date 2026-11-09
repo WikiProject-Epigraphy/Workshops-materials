@@ -12,4 +12,4 @@
 * [Understanding items](https://www.wikidata.org/wiki/Help:Items)
 * [Data type](https://www.wikidata.org/wiki/Help:Data_type)
 * [Date format](https://www.wikidata.org/wiki/Help:Dates)
-* An example of the layout of an inscription in Wikidata: [Funerary inscription of Regina Q131736544](https://www.wikidata.org/wiki/Q131736544)
+* An example: [Funerary inscription of Regina (Q131736544)](https://www.wikidata.org/wiki/Q131736544)
