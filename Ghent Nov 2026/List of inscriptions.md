@@ -35,3 +35,6 @@ Please add your name in the shared [Google Doc](https://docs.google.com/spreadsh
 30. [IGBulg_0013](https://telamon.uni-sofia.bg/en/epi/view_ins/IGBulg_0013)
 31. [Tlmn2_0002](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn2_0002)
 32. [Tlmn3_0005](https://telamon.uni-sofia.bg/en/epi/view_ins/Tlmn3_0005)
+33. [RIB 154](https://romaninscriptionsofbritain.org/inscriptions/154): Curse upon thief of ‘Vilbia’
+34. [RIB 221](https://romaninscriptionsofbritain.org/inscriptions/221): Curse upon Tacita
+35. 
