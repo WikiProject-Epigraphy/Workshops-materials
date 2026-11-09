@@ -12,4 +12,5 @@
 * [Understanding items](https://www.wikidata.org/wiki/Help:Items)
 * [Data type](https://www.wikidata.org/wiki/Help:Data_type)
 * [Date format](https://www.wikidata.org/wiki/Help:Dates)
+* [Adding images in Wikidata](https://www.wikidata.org/wiki/Wikidata:Tours/Images#Adding_an_image_to_Wikidata): must be uploaded in [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) first, **making sure the licence is compatible(!!!)**. For more info on licences: [Commons Licensing](https://commons.wikimedia.org/wiki/Commons:Licensing)
 * An example: [Funerary inscription of Regina (Q131736544)](https://www.wikidata.org/wiki/Q131736544)
